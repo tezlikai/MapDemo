@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radarmap.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_radarmap.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\demo_info_item.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\demo_info_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_heatmap.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_heatmap.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_overlay.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_overlay.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_baidumap.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_open_baidumap.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favorite.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_favorite.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geocoder.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_geocoder.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_poisearch.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_poisearch.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favorite_alert.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_favorite_alert.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cloud_search_demo.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_cloud_search_demo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share_demo.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_share_demo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uisetting.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_uisetting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mapcontrol.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_mapcontrol.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_offline.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share_demo_activity.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_share_demo_activity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radarlist.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_radarlist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_geometry.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_geometry.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favorite_infowindow.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_favorite_infowindow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\offline_localmap_list.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\offline_localmap_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_opengl.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_opengl.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_routeplan.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radartablayout.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_radartablayout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_layers.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_layers.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_fragment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busline.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_busline.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lbssearch.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_lbssearch.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\custom_text_view.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\custom_text_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multimap.xml",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\baiduMapsApiDemo\\src\\main\\res\\layout\\activity_multimap.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_eat.png",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\src\\main\\res\\drawable-hdpi\\icon_eat.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_end.png",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\src\\main\\res\\drawable-hdpi\\icon_end.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\round.png",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\src\\main\\res\\drawable-hdpi\\round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_geo.png",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\src\\main\\res\\drawable-hdpi\\icon_geo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_start.png",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\src\\main\\res\\drawable-hdpi\\icon_start.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popupmap.9.png",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\src\\main\\res\\drawable-hdpi\\popupmap.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roads.png",
+        "source": "D:\\AndroidStudioProjects\\MapDemo\\百度地图74\\src\\main\\res\\drawable-hdpi\\roads.png"
+    }
+]

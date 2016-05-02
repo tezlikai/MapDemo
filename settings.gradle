@@ -1,0 +1,3 @@
+include ':app', ':mybaidumapdemo'
+include ':baiduMapsApiDemo'
+include ':百度地图74'
