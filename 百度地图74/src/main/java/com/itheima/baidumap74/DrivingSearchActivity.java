@@ -32,7 +32,7 @@ public class DrivingSearchActivity extends RoutePlanSearchBaseActivity {
 	@Override
 	public void onGetDrivingRouteResult(DrivingRouteResult result) {
 		DrivingRouteOverlay overlay = new DrivingRouteOverlay(baiduMap);
-		baiduMap.setOnMarkerClickListener(overlay);
+		baiduMap.setOnMarkerClickListener(overlay);//添加添加事件
 		List<DrivingRouteLine> routeLines = result.getRouteLines();	// 获取到所有的搜索路线，最优化的路线会在集合的前面
 		overlay.setData(routeLines.get(0));	// 把搜索结果设置到覆盖物
 		overlay.addToMap();					// 把搜索结果添加到地图
@@ -42,11 +42,12 @@ public class DrivingSearchActivity extends RoutePlanSearchBaseActivity {
 	/** 获取换乘（公交、地铁）搜索结果的回调方法 */
 	@Override
 	public void onGetTransitRouteResult(TransitRouteResult result) {
+
 	}
 
 	/** 获取步行搜索结果的回调方法 */
 	@Override
 	public void onGetWalkingRouteResult(WalkingRouteResult result) {
-	}
 
+	}
 }

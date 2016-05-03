@@ -31,8 +31,6 @@ public abstract class PoiSearchBaseActivity extends BaseActivity implements OnGe
 
 	/**
 	 * 生成这个方法，是为了让子类可以覆盖
-	 * @param index
-	 * @return
 	 */
 	public boolean onPoiClick(int index) {
 		PoiInfo poiInfo = poiOverlay.getPoiResult().getAllPoi().get(index);
@@ -40,7 +38,7 @@ public abstract class PoiSearchBaseActivity extends BaseActivity implements OnGe
 		return true;
 	}
 
-	/** poi搜索的初始化代码写在这个方法 */
+	/**poi搜索的初始化代码写在这个方法 */
 	public abstract void poiSearchInit();
 
 	// 因为其它搜索结果的处理都是相同的，所以放在父类

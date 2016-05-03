@@ -3,6 +3,9 @@ package com.itheima.baidumap74;
 import com.baidu.mapapi.search.route.OnGetRoutePlanResultListener;
 import com.baidu.mapapi.search.route.RoutePlanSearch;
 
+/**
+ * 驾车路线搜索基类
+ */
 public abstract class RoutePlanSearchBaseActivity extends BaseActivity implements OnGetRoutePlanResultListener {
 
 	protected RoutePlanSearch routePlanSearch;

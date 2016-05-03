@@ -13,8 +13,6 @@ import java.util.List;
 
 /**
  * 换乘路线搜索（公交、地铁）
- * @author dzl
- *
  */
 public class TransitSearchActivity extends RoutePlanSearchBaseActivity {
 
@@ -51,5 +49,6 @@ public class TransitSearchActivity extends RoutePlanSearchBaseActivity {
 	/** 获取步行搜索结果的回调方法 */
 	@Override
 	public void onGetWalkingRouteResult(WalkingRouteResult result) {
+
 	}
 }

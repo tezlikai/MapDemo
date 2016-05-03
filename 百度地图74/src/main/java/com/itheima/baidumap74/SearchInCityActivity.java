@@ -15,7 +15,6 @@ public class SearchInCityActivity extends PoiSearchBaseActivity {
 	@Override
 	public void poiSearchInit() {
 		poiSearch.searchInCity(getSearchParams());
-
 	}
 
 	@Override
@@ -48,7 +47,6 @@ public class SearchInCityActivity extends PoiSearchBaseActivity {
 			showToast("没有搜索到详情信息");
 			return ;
 		}
-
 		showToast(result.getShopHours() + ", " + result.getTelephone());
 	}
 

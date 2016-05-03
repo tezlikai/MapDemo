@@ -5,8 +5,6 @@ import com.baidu.mapapi.search.poi.PoiNearbySearchOption;
 
 /**
  * 在周边搜索
- * @author dzl
- *
  */
 public class SearchInNearbyActivity extends PoiSearchBaseActivity {
 
@@ -28,7 +26,6 @@ public class SearchInNearbyActivity extends PoiSearchBaseActivity {
 	/** 获取兴趣点详情信息 */
 	@Override
 	public void onGetPoiDetailResult(PoiDetailResult result) {
-
 	}
 
 }

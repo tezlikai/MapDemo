@@ -127,8 +127,7 @@ public class LocationActivity extends BaseActivity {
 	}
 
 	/** 设置定位图层的配置 */
-	private void setMyLocationConfigeration(
-			MyLocationConfiguration.LocationMode mode) {
+	private void setMyLocationConfigeration(MyLocationConfiguration.LocationMode mode) {
 		boolean enableDirection = true;	// 设置允许显示方向
 	    BitmapDescriptor customMarker = BitmapDescriptorFactory.fromResource(R.drawable.icon_geo);	// 自定义定位的图标
 	    MyLocationConfiguration config = new MyLocationConfiguration(mode, enableDirection, customMarker);

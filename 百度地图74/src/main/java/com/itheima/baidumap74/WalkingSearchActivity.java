@@ -12,8 +12,6 @@ import java.util.List;
 
 /**
  * 步行路线搜索
- * @author dzl
- *
  */
 public class WalkingSearchActivity extends RoutePlanSearchBaseActivity {
 
@@ -50,5 +48,4 @@ public class WalkingSearchActivity extends RoutePlanSearchBaseActivity {
 		overlay.addToMap();					// 把搜索结果添加到地图
 		overlay.zoomToSpan();				// 把搜索结果在一个屏幕内显示完
 	}
-
 }
